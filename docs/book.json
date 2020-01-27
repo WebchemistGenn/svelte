@@ -6,6 +6,6 @@
     }
   },
   "variables": {
-    "BASE_URL": "https://docs.webchemist.net/svelte"
+    "BASE_URL": "https://webchemistgenn.github.io/svelte/"
   }
 }
